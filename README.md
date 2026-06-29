@@ -218,6 +218,19 @@ Possible extensions include:
 
 ---
 
+## Usage and Attribution
+
+This project is shared for educational, research, and entertainment purposes.
+
+Feel free to experiment with, modify, and extend the code and analysis.
+If you reuse substantial parts of this work, please provide appropriate
+attribution.
+
+And if you eventually prove that Pazaak really is rigged after all,
+please let me know.
+
+---
+
 ## Acknowledgements
 
 Special thanks to:
