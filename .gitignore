@@ -1,0 +1,76 @@
+# =====================================
+# Python
+# =====================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =====================================
+# Virtual Environments
+# =====================================
+
+pazaak_env/
+venv/
+.venv/
+env/
+
+# =====================================
+# IDE / Editor
+# =====================================
+
+.vscode/
+.idea/
+
+# =====================================
+# Operating System Files
+# =====================================
+
+.DS_Store
+Thumbs.db
+
+# =====================================
+# Jupyter
+# =====================================
+
+.ipynb_checkpoints/
+
+# =====================================
+# Pytest / Coverage
+# =====================================
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =====================================
+# Gameplay Recordings
+# =====================================
+
+game_recordings/*.mp4
+game_recordings/*.avi
+game_recordings/*.mkv
+
+# =====================================
+# Generated Debug Output
+# =====================================
+
+data/debug/**/*
+
+# Keep documentation file
+!data/debug/README.md
+
+# =====================================
+# Generated Extraction Output
+# =====================================
+
+data/extracted/**/*
+
+# Keep documentation file
+!data/extracted/README.md
+
+# =====================================
+# Optional Thumbnails
+# =====================================
+
+thumbnails/
