@@ -2,9 +2,16 @@
 
 *An unnecessarily thorough statistical investigation into whether Pazaak cheats.*
 
-📄 **Paper:** `docs/Pazaak_The_Kobayashi_Maru_Of_Star_Wars.pdf`
-💻 Source Code: Browse Repository
-👤 Author: Sebastian Böker
+##  Project Resources
+
+📄 **Scientific Investigation Report**  
+A complete report covering the methodology, computer vision pipeline, statistical evaluation and conclusions.
+
+➡️ **[Read the paper (PDF)](docs/Pazaak_The_Kobayashi_Maru_Of_Star_Wars.pdf)**
+
+💻 **Source Code:** Browse this repository
+
+👤 **Author:** Sebastian Böker
 
 ---
 
@@ -34,6 +41,14 @@ The short version:
 > The game is still unfair.
 >
 > Just not for the reason I wanted.
+
+### Want the full methodology?
+
+This README provides a project overview.
+
+For the complete statistical analysis, experimental setup, computer vision pipeline, hypothesis tests and discussion, see the full report:
+
+📄 **[Read the Investigation Paper](docs/Pazaak_The_Kobayashi_Maru_Of_Star_Wars.pdf)**
 
 ---
 
