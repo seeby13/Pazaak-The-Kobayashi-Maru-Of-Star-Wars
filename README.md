@@ -7,7 +7,7 @@
 📄 **Scientific Investigation Report**  
 A complete report covering the methodology, computer vision pipeline, statistical evaluation and conclusions.
 
-➡️ **[Read the paper (PDF)](docs/Pazaak_The_Kobayashi_Maru_Of_Star_Wars.pdf)**
+➡️ **[Read the paper (PDF)](docs/Pazaak_Fairness_Investigation_Report.pdf)**
 
 💻 **Source Code:** Browse this repository
 
@@ -48,7 +48,7 @@ This README provides a project overview.
 
 For the complete statistical analysis, experimental setup, computer vision pipeline, hypothesis tests and discussion, see the full report:
 
-📄 **[Read the Investigation Paper](docs/Pazaak_The_Kobayashi_Maru_Of_Star_Wars.pdf)**
+📄 **[Read the Investigation Paper](docs/Pazaak_Fairness_Investigation_Report.pdf)**
 
 ---
 
