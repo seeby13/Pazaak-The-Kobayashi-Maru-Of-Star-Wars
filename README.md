@@ -203,24 +203,6 @@ The most likely explanation for the perceived unfairness of Pazaak is the struct
 
 ---
 
-## Report
-
-A full write-up of the investigation is included in:
-
-```text
-docs/Pazaak_The_Kobayashi_Maru_Of_Star_Wars.pdf
-```
-
-The report documents:
-
-* simulation methodology
-* extraction pipeline design
-* statistical analyses
-* validation procedures
-* final conclusions
-
----
-
 ## Future Work
 
 Possible extensions include:
